@@ -27,7 +27,7 @@ function lambda_prompt_filter()
 end
 
 local arrowSymbol = ""
-local branchSymbol = ""
+local branchSymbol = "->"
 
 --- copied from clink.lua
  -- Resolves closest directory location for specified directory.
